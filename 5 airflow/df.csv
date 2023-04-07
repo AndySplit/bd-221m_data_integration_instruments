@@ -1,0 +1,69 @@
+region,category,sub_category,quantity
+Central,Furniture,Bookcases,192
+Central,Furniture,Chairs,615
+Central,Furniture,Furnishings,758
+Central,Furniture,Tables,262
+Central,Office Supplies,Appliances,470
+Central,Office Supplies,Art,678
+Central,Office Supplies,Binders,1473
+Central,Office Supplies,Envelopes,206
+Central,Office Supplies,Fasteners,227
+Central,Office Supplies,Labels,284
+Central,Office Supplies,Paper,1225
+Central,Office Supplies,Storage,724
+Central,Office Supplies,Supplies,122
+Central,Technology,Accessories,716
+Central,Technology,Copiers,49
+Central,Technology,Machines,66
+Central,Technology,Phones,713
+East,Furniture,Bookcases,252
+East,Furniture,Chairs,676
+East,Furniture,Furnishings,1015
+East,Furniture,Tables,271
+East,Office Supplies,Appliances,474
+East,Office Supplies,Art,849
+East,Office Supplies,Binders,1652
+East,Office Supplies,Envelopes,267
+East,Office Supplies,Fasteners,298
+East,Office Supplies,Labels,420
+East,Office Supplies,Paper,1400
+East,Office Supplies,Storage,907
+East,Office Supplies,Supplies,195
+East,Technology,Accessories,724
+East,Technology,Copiers,71
+East,Technology,Machines,165
+East,Technology,Phones,982
+South,Furniture,Bookcases,118
+South,Furniture,Chairs,331
+South,Furniture,Furnishings,615
+South,Furniture,Tables,227
+South,Office Supplies,Appliances,293
+South,Office Supplies,Art,547
+South,Office Supplies,Binders,981
+South,Office Supplies,Envelopes,206
+South,Office Supplies,Fasteners,126
+South,Office Supplies,Labels,216
+South,Office Supplies,Paper,851
+South,Office Supplies,Storage,488
+South,Office Supplies,Supplies,92
+South,Technology,Accessories,504
+South,Technology,Copiers,26
+South,Technology,Machines,62
+South,Technology,Phones,526
+West,Furniture,Bookcases,306
+West,Furniture,Chairs,734
+West,Furniture,Furnishings,1175
+West,Furniture,Tables,481
+West,Office Supplies,Appliances,492
+West,Office Supplies,Art,926
+West,Office Supplies,Binders,1868
+West,Office Supplies,Envelopes,227
+West,Office Supplies,Fasteners,263
+West,Office Supplies,Labels,480
+West,Office Supplies,Paper,1702
+West,Office Supplies,Storage,1039
+West,Office Supplies,Supplies,238
+West,Technology,Accessories,1032
+West,Technology,Copiers,88
+West,Technology,Machines,147
+West,Technology,Phones,1068
